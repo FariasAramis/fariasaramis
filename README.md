@@ -13,12 +13,12 @@
 
 - 📄 Know about my experiences [https://fariasaramis.github.io/docs/20210910_Aramis_Farias_Resume.pdf](https://fariasaramis.github.io/docs/20210910_Aramis_Farias_Resume.pdf)
 
-- ⚡ Fun fact **I made a katana once.**
+- ⚡ Fun fact [**I made a katana once.**](https://photos.app.goo.gl/AYdrspHvqYkxtjLX9)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fariasaramis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fariasaramis" height="30" width="40" /></a>
-<a href="https://kaggle.com/fariasaramis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fariasaramis" height="30" width="40" /></a>
+<a href="https://kaggle.com/aramisfarias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fariasaramis" height="30" width="40" /></a>
 <a href="https://medium.com/@fariasaramis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fariasaramis" height="30" width="40" /></a>
 </p>
 
@@ -35,5 +35,3 @@
   <a href="https://www.tableau.com/" target="_blank"> 
     <img src="https://logodix.com/logo/674290.gif" alt="tableau" width="40" height="40"/> </a> 
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fariasaramis&show_icons=true&locale=en&layout=compact" alt="fariasaramis" /></p>
