@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://fariasaramis.github.io/](https://fariasaramis.github.io/)
 
-- 📝 I write articles on [https://medium.com/@fariasaramis](https://medium.com/@fariasaramis)
+- 📝 I write articles on [Medium](https://medium.com/@fariasaramis)
 
 - 📫 How to reach me **fariasaramis@gmail.com**
 
-- 📄 Know about my experiences [https://fariasaramis.github.io/docs/20211104_Aramis_Farias_Resume.pdf](https://fariasaramis.github.io/docs/20210910_Aramis_Farias_Resume.pdf)
+- 📄 Know about my experiences [Resume](https://fariasaramis.github.io/docs/20211104_Aramis_Farias_Resume.pdf)
 
 - ⚡ Fun fact [**I made a katana once.**](https://photos.app.goo.gl/AYdrspHvqYkxtjLX9)
 
