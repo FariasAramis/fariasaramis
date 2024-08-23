@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aramis Farias</h1>
-<h3 align="center">Data Analyst from Brazil</h3>
+<h3 align="center">Data Analyst from Brazil. My speciality field is Analytics for Games.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fariasaramis&label=Profile%20views&color=0e75b6&style=flat" alt="fariasaramis" /> </p>
 
@@ -24,14 +24,19 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank"> 
+  <a href="https://www.r-project.org/" target="_blank"> 
+    <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/>
+</a>
+    <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+    <a href="https://www.postgresql.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+  <a href="https://www.databricks.com" target="_blank"> 
+    <img src="https://seeklogo.com/images/A/azure-databricks-logo-AB590543D3-seeklogo.com.png" alt="databricks" width="40" height="40"/> </a> 
   <a href="https://www.tableau.com/" target="_blank"> 
     <img src="https://logodix.com/logo/674290.gif" alt="tableau" width="40" height="40"/> </a> 
+  <a href="https://looker.com/" target="_blank"> 
+    <img src="https://seeklogo.com/images/G/google-looker-logo-B27BD25E4E-seeklogo.com.png" alt="Looker" height="40"/>
+</a>
+
 </p>
