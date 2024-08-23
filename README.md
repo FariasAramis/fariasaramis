@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aramis Farias</h1>
-<h3 align="center">A passionate data analyst from Brazil</h3>
+<h3 align="center">Data Analyst from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fariasaramis&label=Profile%20views&color=0e75b6&style=flat" alt="fariasaramis" /> </p>
 
-- 🔭 I’m currently working on [Airbnb Munich Analysis](https://www.kaggle.com/aramisfarias/airbnb-munich-germany-july-21?scriptVersionId=76757505)
+- 🔭 I’m currently working on [...]()
 
 - 👨‍💻 All of my projects are available at [https://fariasaramis.github.io/](https://fariasaramis.github.io/)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **fariasaramis@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://fariasaramis.github.io/docs/20211104_Aramis_Farias_Resume.pdf)
+- 📄 Know about my experiences [Resume](https://fariasaramis.github.io/docs/20240326_Aramis_Farias_Resume.pdf)
 
 - ⚡ Fun fact [**I made a katana once.**](https://photos.app.goo.gl/AYdrspHvqYkxtjLX9)
 
